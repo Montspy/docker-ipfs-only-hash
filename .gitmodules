@@ -1,3 +1,0 @@
-[submodule "ipfs-only-hash"]
-	path = ipfs-only-hash
-	url = https://github.com/alanshaw/ipfs-only-hash.git
