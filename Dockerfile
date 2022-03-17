@@ -1,7 +1,5 @@
 FROM node:16-alpine
 
-RUN apk add bash
-
 # Set workdir initially just for npm to install
 WORKDIR /usr/src/app
 
