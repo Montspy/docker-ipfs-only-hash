@@ -2,7 +2,7 @@
 
 Dockerized version of [pure-ipfs-only-hash](https://github.com/Airtune/pure-ipfs-only-hash)
 
-Made for use in [LooPyMint2](https://github.com/sk33z3r/loopymint2)
+Made for use in [LooPyGen](https://github.com/sk33z3r/loopygen)
 
 ## Usage
 
